@@ -1,6 +1,5 @@
 ### - Hi there! My name is Lucas García de Viedma Pérez 👋
-![Bitmoji](https://user-images.githubusercontent.com/72617878/97784113-719e9b00-1b9c-11eb-8015-d7502457bcc0.png)
-
+![d2eaa694dbbbb5227fcff80dead7c2ca8da689b37a4a04a71d0e0ddea043751b 01](https://user-images.githubusercontent.com/72617878/97785500-bd097700-1ba5-11eb-8751-46bbb4c0af08.png)
 #### Who am i?
 I'm a fourth grade student on Computer Science Engineering with a major on Computing at the Alcalá de Henares University (Spain). I am a fervent advocate of self-teaching, as I believe that, in general, what others teach you is never enough to excel in any project we undertake. In my opinion, in this constantly developing world, either we update ourselves and learn more on our own or we fall behind. That's why i love learning new stuff and i'd enjoy participating in any project you might think off! 
 ***
