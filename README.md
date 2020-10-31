@@ -1,7 +1,16 @@
-### Hi there 👋
+### - Hi there! My name is Lucas García de Viedma Pérez 👋
+![Bitmoji](https://user-images.githubusercontent.com/72617878/97784113-719e9b00-1b9c-11eb-8015-d7502457bcc0.png)
+
+#### Who am i?
+I'm a fourth grade student on Computer Science Engineering with a major on Computing at the Alcalá de Henares University (Spain). I am a fervent advocate of self-teaching, as I believe that, in general, what others teach you is never enough to excel in any project we undertake. In my opinion, in this constantly developing world, either we update ourselves and learn more on our own or we fall behind. That's why i love learning new stuff and i'd enjoy participating in any project you might think off! 
+***
+#### Related interests
+I've recently dicovered data science and i think it may be the field i want to explore in the near future, but i've quite enjoyed OOP, functional programming, parallel computing and other disciplines too. There are still lots of areas that i don't even know and that would probably interest me in the same way.
+***
+#### Coding Languages
 
 <!--
-**Lucasgvdii/Lucasgvdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lucasgvdii/Lucasgvdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
