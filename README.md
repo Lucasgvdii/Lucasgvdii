@@ -1,13 +1,14 @@
 ### - Hi there! My name is Lucas García de Viedma Pérez 👋
 ![d2eaa694dbbbb5227fcff80dead7c2ca8da689b37a4a04a71d0e0ddea043751b 0](https://user-images.githubusercontent.com/72617878/97785588-29847600-1ba6-11eb-9746-411a9e7042ea.png)
 #### Who am i?
-I'm a fourth grade student on Computer Science Engineering with a major on Computing at the Alcalá de Henares University (Spain). I am a fervent advocate of self-teaching, as I believe that, in general, what others teach you is never enough to excel in any project we undertake. In my opinion, in this constantly developing world, either we update ourselves and learn more on our own or we fall behind. That's why i love learning new stuff and i'd enjoy participating in any project you might think off! 
+I'm a fourth grade student on Computer Science Engineering with a major on Computing at the Alcalá de Henares University (Spain). I am a fervent advocate of self-teaching, as I believe that, in general, what others teach you is never enough to excel in any project we undertake. In my opinion, in this constantly developing world, either we update ourselves and learn more on our own or we fall behind. That's why I love learning new stuff and I'd enjoy participating in any project you might think off! 
 ***
 #### Related interests
-I've recently dicovered data science and i think it may be the field i want to explore in the near future, but i've quite enjoyed OOP, functional programming, parallel computing and other disciplines too. There are still lots of areas that i don't even know and that would probably interest me in the same way.
+I've recently dicovered data science and I think it may be the field I want to explore in the near future, but I've quite enjoyed OOP, functional programming, parallel computing and other disciplines too. There are still lots of areas that I don't even know and that would probably interest me in the same way.
 ***
-#### Coding Languages
-
+#### Coding Languages Mastery
+I particularly love Python. It's clean, concise, intuitive and it's one of the main languages in areas that interest me the most! 
+![Imagen1](https://user-images.githubusercontent.com/72617878/97785793-9ba98a80-1ba7-11eb-97f0-dd79d448d0a7.png) 
 <!--
 **Lucasgvdii/Lucasgvdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
